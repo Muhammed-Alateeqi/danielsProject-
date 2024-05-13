@@ -1,0 +1,73 @@
+
+/* Landing Typing effect */
+
+@keyframes typing {
+    0% {content:'L|';}
+    2% {content:'Lar|';}
+    4% {content:'Larr|';}
+    6% {content:'Larry|';}
+    8% {content:'Larry |';}
+    10% {content:'Larry D|';}
+    12% {content:'Larry Da|';}
+    14% {content:'Larry Dani|';}
+    16% {content:'Larry Danie|';}
+    16% {content:'Larry Daniel|';}
+    16% {content:'Larry Daniels|';}
+    40%{content: 'Larry Daniels|';}
+    42%{content: 'Larry Daniel|';}
+    44%{content: 'Larry Danie|';}
+    46%{content: 'Larry Dani|';}
+    48%{content: 'Larry Dan|';}
+    50%{content: 'Larry Da|';}
+    52%{content: 'Larry D|';}
+    54%{content: 'Larry|';}
+    56%{content: 'Larr|';}
+    58%{content: 'Lar|';}
+    60%{content: 'La|';}
+    61%{content: '|';}
+    62%{content: 'D|';}
+    64%{content: 'De|';}
+    66%{content: 'Dev|';}
+    68%{content: 'Deve|';}
+    70%{content: 'Devel|';}
+    72%{content: 'Develo|';}
+    74%{content: 'Develop|';}
+    76%{content: 'Develope|';}
+    85%{content: 'Developer|';}
+    87%{content: 'Develope|';}
+    89%{content: 'Develop|';}
+    91%{content: 'Develo|';}
+    93%{content: 'Devel|';}
+    94%{content: 'Deve|';}
+    95%{content: 'Dev|';}
+    96%{content: 'De|';}
+    98%{content: 'D|';}
+    100%{content: '|';}
+}
+
+/* Progress-bar Animations (About Me ) */
+@keyframes progress-bar-effect-1 {
+    0%{
+        width: 0%;
+    }
+    95%{
+        width: 95%;
+    }
+}
+@keyframes progress-bar-effect-2 {
+    0%{
+        width: 0%;
+    }
+    80%{
+        width: 80%;
+    }
+}
+@keyframes progress-bar-effect-3 {
+    0%{
+        width: 0%;
+    }
+    90%{
+        width: 90%;
+    }
+
+}
